@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: http://localhost:4502
+    type: aem
+    path: /content/forms/eds
