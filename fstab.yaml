@@ -1,5 +1,2 @@
 mountpoints:
-  /:
-    url: http://localhost:4502
-    type: aem
-    path: /content/forms/eds
+  /: http://localhost:3000/forms-practise/main
